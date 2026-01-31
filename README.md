@@ -33,3 +33,26 @@ Computer Science student at **ISIMM, Monastir** — building my future with code
 ---
 
 ## 🌱 Learning Journey
+
+---
+
+## ✊ Standing With Palestine 🇵🇸
+
+> *"Freedom is a right, not a privilege."*
+
+- ✅ Boycott companies complicit in occupation
+- ✅ Amplify Palestinian voices
+- ✅ Support humanitarian aid for Gaza
+
+[![Free Palestine](https://img.shields.io/badge/Free_Palestine-008C45?logo=palestine&logoColor=white)](https://en.wikipedia.org/wiki/State_of_Palestine)
+
+---
+
+## 📫 Let's Connect
+
+📧 **Email**: [ahmedsalhi27@tutamail.com](mailto:ahmedsalhi27@tutamail.com)  
+📍 **Location**: Monastir, Tunisia 🇹🇳
+
+---
+
+*Learning in public — one commit at a time ⚽💻*
