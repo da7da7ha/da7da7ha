@@ -36,6 +36,12 @@ Computer Science student at **ISIMM, Monastir** — building my future with code
 
 ---
 
+## 📄 Curriculum Vitae
+
+[![CV](https://img.shields.io/badge/CV-Download-blue?logo=adobe&logoColor=white)](da7da7ha/SalhiAhmed_Resume-En.pdf)
+
+---
+
 ## ✊ Standing With Palestine 🇵🇸
 
 > *"Freedom is a right, not a privilege."*
