@@ -9,15 +9,15 @@ Computer Science student at **ISIMM, Monastir** — building my future with code
 
 ## 📚 About Me
 
-- 🔭 **Currently learning**: JavaScript, React, and AI fundamentals
-- 🎯 **Goal**: Build my own web applications — with my own logic and code (no AI shortcuts)
-- 🎨 **Creative side**: Drawing & painting — because code is art too
-- 💪 **Discipline**: Swimming & bodybuilding — mental strength for long coding sessions
+-  **Currently learning**: JavaScript, React, and AI fundamentals
+-  **Goal**: Build my own web applications — with my own logic and code (no AI shortcuts)
+-  **Creative side**: Drawing & painting — because code is art too
+-  **Discipline**: Swimming & bodybuilding — mental strength for long coding sessions
 - 🇵🇸 **Values**: Justice, solidarity, and freedom for Palestine
 
 ---
 
-## 💻 Tech Stack
+## Tech Stack
 
 ### Web Development
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
@@ -32,33 +32,27 @@ Computer Science student at **ISIMM, Monastir** — building my future with code
 
 ---
 
-## 🌱 Learning Journey
+## ✊ Standing With Palestine 🇵🇸
 
+> *"Freedom is a right, not a privilege."*
+
+
+[![Free Palestine](https://img.shields.io/badge/Free_Palestine-008C45?logo=palestine&logoColor=white)](https://en.wikipedia.org/wiki/State_of_Palestine)
+
+---
+
+## Let's Connect
+
+📧 **Email**: [ahmedsalhi27@tutamail.com](mailto:ahmedsalhi27@tutamail.com)  
+📍 **Location**: Monastir, Tunisia 🇹🇳
+
+---
 ---
 
 ## 📄 Curriculum Vitae
 
 [![CV](https://img.shields.io/badge/CV-Download-blue?logo=adobe&logoColor=white)](SalhiAhmed_Resume-En.pdf)
 
----
 
-## ✊ Standing With Palestine 🇵🇸
-
-> *"Freedom is a right, not a privilege."*
-
-- ✅ Boycott companies complicit in occupation
-- ✅ Amplify Palestinian voices
-- ✅ Support humanitarian aid for Gaza
-
-[![Free Palestine](https://img.shields.io/badge/Free_Palestine-008C45?logo=palestine&logoColor=white)](https://en.wikipedia.org/wiki/State_of_Palestine)
-
----
-
-## 📫 Let's Connect
-
-📧 **Email**: [ahmedsalhi27@tutamail.com](mailto:ahmedsalhi27@tutamail.com)  
-📍 **Location**: Monastir, Tunisia 🇹🇳
-
----
 
 *Learning in public — one commit at a time ⚽💻*
