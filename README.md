@@ -49,7 +49,6 @@ Computer Science student at **ISIMM, Monastir** — building my future with code
 ---
 ---
 
-## 📄 Curriculum Vitae
 
 [![CV](https://img.shields.io/badge/CV-Download-blue?logo=adobe&logoColor=white)](SalhiAhmed_Resume-En.pdf)
 
