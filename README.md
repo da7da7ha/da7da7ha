@@ -43,7 +43,10 @@ Computer Science student at **ISIMM, Monastir** — building my future with code
 
 ## Let's Connect
 
-📧 **Email**: [ahmedsalhi27@tutamail.com](mailto:ahmedsalhi27@tutamail.com)  
+📧 **Email**: 
+- [ahmedsalhi27@tutamail.com](mailto:ahmedsalhi27@tutamail.com) 
+- [ahmed@ahmedsalhi.com](mailto:ahmed@ahmedsalhi.com) .
+
 📍 **Location**: Monastir, Tunisia 🇹🇳
 
 ---
