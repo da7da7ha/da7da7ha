@@ -1,4 +1,4 @@
-# 👋 Hello, I'm Ahmed
+# Hello, I'm Ahmed
 
 Computer Science student at **ISIMM, Monastir** — building my future with code, creativity, and conviction.
 
@@ -7,7 +7,7 @@ Computer Science student at **ISIMM, Monastir** — building my future with code
 
 ---
 
-## 📚 About Me
+##  About Me
 
 -  **Currently learning**: JavaScript, React, and AI fundamentals
 -  **Goal**: Build my own web applications — with my own logic and code (no AI shortcuts)
@@ -32,7 +32,7 @@ Computer Science student at **ISIMM, Monastir** — building my future with code
 
 ---
 
-## ✊ Standing With Palestine 🇵🇸
+##  Standing With Palestine 🇵🇸
 
 > *"Freedom is a right, not a privilege."*
 
@@ -54,4 +54,4 @@ Computer Science student at **ISIMM, Monastir** — building my future with code
 
 
 
-*Learning in public — one commit at a time ⚽💻*
+*Learning in public — one commit at a time *
