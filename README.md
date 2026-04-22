@@ -50,10 +50,6 @@ Computer Science student at **ISIMM, Monastir** — building my future with code
 📍 **Location**: Monastir, Tunisia 🇹🇳
 
 ---
----
-
-
-[![CV](https://img.shields.io/badge/CV-Download-blue?logo=adobe&logoColor=white)](SalhiAhmed_Resume-En.pdf)
 
 
 
